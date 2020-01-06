@@ -1,4 +1,5 @@
-# GrowthCurvesGraphs_LabGenetics
+# Grafici delle curve di crescita dei lieviti - Laboratorio di Genetica - anno accademico 2019/2020
+
 Questa repository contiene lo script in Python per visualizzare due grafici di due curve di crescita di lieviti.
 
 Il gruppo di laboratorio è composto da [Vittoria Chierzi](https://github.com/VittoriaChierzi) e [Federica Ress](https://github.com/federicaress).
